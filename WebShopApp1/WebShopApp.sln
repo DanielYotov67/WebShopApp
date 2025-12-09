@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShopApp", "WebShopApp\WebShopApp.csproj", "{70B03455-BCCE-4FEE-8FCB-2ED3FA965F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShopApp.Infrastructure", "WebShopApp.Infrastructure\WebShopApp.Infrastructure.csproj", "{46A27B67-DACE-44A5-9361-88FBED66CEC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B03455-BCCE-4FEE-8FCB-2ED3FA965F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B03455-BCCE-4FEE-8FCB-2ED3FA965F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B03455-BCCE-4FEE-8FCB-2ED3FA965F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B03455-BCCE-4FEE-8FCB-2ED3FA965F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A27B67-DACE-44A5-9361-88FBED66CEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A27B67-DACE-44A5-9361-88FBED66CEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A27B67-DACE-44A5-9361-88FBED66CEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A27B67-DACE-44A5-9361-88FBED66CEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {721460CE-ED9B-4193-9B54-CE52E669AF0B}
+	EndGlobalSection
+EndGlobal
